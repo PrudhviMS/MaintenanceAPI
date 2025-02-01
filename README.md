@@ -1,4 +1,5 @@
 📌 Project Title: Asset and Ticket Management System (Django REST Framework)
+
 📖 Project Overview
 This project is a Django REST API for managing an organization's assets, users, tickets, suppliers, payments, and roles. The system enables tracking assets, raising and managing tickets, handling payments, and maintaining role-based access control.
 
@@ -47,23 +48,27 @@ Endpoint	Method	Description
 /roles/	GET	Retrieve all roles
 /suppliers/	POST	Register a new supplier
 🔨 Setup & Installation
+
 1️⃣ Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/asset-ticket-management.git
 cd asset-ticket-management
+
 2️⃣ Create a Virtual Environment
 bash
 Copy
 Edit
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 3️⃣ Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
 4️⃣ Run Migrations
 bash
 Copy
