@@ -1,7 +1,6 @@
 📌 Project Title: Asset and Ticket Management System (Django REST Framework)
 
 
-
 📖 Project Overview
 This project is a Django REST API for managing an organization's assets, users, tickets, suppliers, payments, and roles. The system enables tracking assets, raising and managing tickets, handling payments, and maintaining role-based access control.
 
